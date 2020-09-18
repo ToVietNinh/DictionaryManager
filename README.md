@@ -1,0 +1,2 @@
+# DictionaryManager
+Dictionary
